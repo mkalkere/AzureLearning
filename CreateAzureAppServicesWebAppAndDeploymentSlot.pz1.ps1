@@ -40,3 +40,4 @@ Remove-AzureRmAppServicePlan -ResourceGroupName $resourceGroupName -Name $appSer
 Remove-AzureRmResourceGroup -Name $resourceGroupName -Verbose 
 
 Logout-AzureRmAccount
+ 
